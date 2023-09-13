@@ -19,7 +19,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 3. The majority of clients are coming from offline travel agents to make their reservations. 
 
 ## Summary of Findings
-- Total amount of hotel was higher for City Hotel (77,986) than Resort Hotel (37,029).
+- Total booking of hotel was higher for City Hotel (77,986) than Resort Hotel (37,029).
 - One of the hypothesis is proved where when price is high, the number of cancellations is more.
 - January has the most cancellations and August has the least cancellations.
 - In July hotels made up 11,335 in reservations.
