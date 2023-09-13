@@ -4,7 +4,7 @@
 ## Data Used
 **Dataset** - Hotel Booking with contains 119390 observations in 1st of July 2015 to 31st of August 2017 on Kaggle.
 
-**Data Cleaning & Analysis** - Python(pandas) with google Colab
+**Data Cleaning & Analysis** - Python(pandas) with Google Colab
 
 **Data Visualization** - Power BI
 
@@ -19,8 +19,10 @@ The analysis of hotel booking cancellations as well as other factors that have n
 3. The majority of clients are coming from offline travel agents to make their reservations. 
 
 ## Summary of Findings
+- Total amount of hotel was higher for City Hotel (77,986) than Resort Hotel (37,029).
 - One of the hypothesis is proved where when price is high, the number of cancellations is more
 - 37% of cancellations impacted revenue, and the largest impact occurred in 2016.
+- 36.05% cancelled their booking, 62.92% checked out while 1.03% didn't show up.
 - A whopping 47% of cancellations are from users who booked through online travel agents.
 - Portugal had the highest cancellations, with 23% or 27,000 cancellations.
 - 
