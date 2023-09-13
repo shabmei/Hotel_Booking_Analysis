@@ -20,12 +20,13 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 ## Summary of Findings
 - Total amount of hotel was higher for City Hotel (77,986) than Resort Hotel (37,029).
-- One of the hypothesis is proved where when price is high, the number of cancellations is more
+- One of the hypothesis is proved where when price is high, the number of cancellations is more.
+- January has the most cancellations and August has the least cancellations.
+- In July hotels made up 11,335 in reservations.
 - 37% of cancellations impacted revenue, and the largest impact occurred in 2016.
 - 36.05% cancelled their booking, 62.92% checked out while 1.03% didn't show up.
 - A whopping 47% of cancellations are from users who booked through online travel agents.
 - Portugal had the highest cancellations, with 23% or 27,000 cancellations.
-- 
 
 ## Recommendations
 - Cancellation rates rise as the prices does. In order to prevent cancellations of reservations, hotel could work on their pricing strategies and try to lower the rates for specific hotels based on location. They can also provide some discounts to the customers.
