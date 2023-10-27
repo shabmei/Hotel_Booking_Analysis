@@ -26,7 +26,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 - 37% of cancellations impacted revenue, and the largest impact occurred in 2016.
 - 36.05% cancelled their booking, 62.92% checked out while 1.03% didn't show up.
 - A whopping 47% of cancellations are from users who booked through online travel agents.
-- Portugal had the highest cancellations, with 23% or 27,000 cancellations.
+- Portugal has the highest cancellations, with 23% or 27,000 cancellations.
 
 ## Recommendations
 - Cancellation rates rise as the prices does. In order to prevent cancellations of reservations, hotel could work on their pricing strategies and try to lower the rates for specific hotels based on location. They can also provide some discounts to the customers.
