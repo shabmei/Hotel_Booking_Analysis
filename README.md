@@ -1,5 +1,5 @@
 # Hotel_Booking_Analysis
-![Hotel Booking Dashboard-1](https://github.com/shabmei/Hotel_Booking_Analysis/assets/143242186/23c5f77e-003c-460e-a29c-7817d9ccc7c3)
+![Hotel Booking Dashboard-1](https://github.com/shabmei/Hotel_Booking_Analysis/assets/143242186/71686a10-3757-4ed5-bfab-ceeb819894d6)
 
 ## Data Used
 **Dataset** - Hotel Booking with contains 119390 observations in 1st of July 2015 to 31st of August 2017 on Kaggle.
