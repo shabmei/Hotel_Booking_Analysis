@@ -1,6 +1,10 @@
 # Hotel_Booking_Analysis
 ![Hotel Booking Dashboard-1](https://github.com/shabmei/Hotel_Booking_Analysis/assets/143242186/71686a10-3757-4ed5-bfab-ceeb819894d6)
 
+## About
+As a Data Analyst, conducted a self-project analysis of hotel booking cancellations and other factors unrelated to business 
+operations but potentially impacting annual revenue generation are the main topics of this report.
+
 ## Data Used
 **Dataset** - Hotel Booking with contains 119390 observations in 1st of July 2015 to 31st of August 2017 on Kaggle.
 
